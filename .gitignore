@@ -1,0 +1,7 @@
+﻿data/input/*
+data/output/*
+!.gitkeep
+__pycache__/
+.venv/
+*.xlsx
+*.csv
